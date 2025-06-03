@@ -34,10 +34,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Apocaliptico70/Apocaliptico70/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img src="https://bamotta.github.io/bamotta/snake.svg" alt="Snake animation" />
