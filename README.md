@@ -34,4 +34,4 @@
 
 ###
 
-<img src="https://bamotta.github.io/bamotta/snake.svg" alt="Snake animation" />
+<img src="https://Apocaliptico70.github.io/Apocaliptico70/snake.svg" alt="Snake animation" />
