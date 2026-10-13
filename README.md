@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left"></p>
+<p align="left">Higher Technician in Web Application Development</p>
 
 ###
 
@@ -13,9 +13,15 @@
 
 <p align="left">Web Developer | Higher Technician in Web Application Development</p>
 
+<p align="center">
+  💻 Passionate about web development and building useful applications.
+  <br />
+  🚀 Continuously learning and improving my programming skills.
+</p>
+
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠️ Technologies & Tools</h2>
 
 ###
 
