@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there, I'm Víctor Fernández</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">tecnico superior en desarrollo de aplicaciones web</p>
+<p align="left">Web Developer | Higher Technician in Web Application Development</p>
 
 ###
 
