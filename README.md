@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">
+<p align="left">
   💻 Passionate about web development and building useful applications.
   <br />
   🚀 Continuously learning and improving my programming skills.
